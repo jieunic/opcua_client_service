@@ -1,0 +1,36 @@
+2024-05-11 08:38:01,652 - INFO - Connecting to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-11 08:38:05,681 - ERROR - Exepction Error occured at connecting to OPC UA Server opc.tcp://localhost:4840: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-05-11 08:38:05,683 - INFO - Disconnect OPC UA Server opc.tcp://localhost:4840
+2024-05-11 08:38:05,684 - ERROR - Error while disconnecting: 'NoneType' object has no attribute 'socket'
+2024-05-11 08:41:34,073 - INFO - Connecting to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-11 08:41:38,121 - ERROR - Exepction Error occured at connecting to OPC UA Server opc.tcp://localhost:4840: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-05-11 08:41:38,125 - INFO - Disconnect OPC UA Server opc.tcp://localhost:4840
+2024-05-11 08:41:38,128 - ERROR - Error while disconnecting: 'NoneType' object has no attribute 'socket'
+2024-05-11 08:42:25,016 - INFO - Connecting to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-11 08:42:25,043 - INFO - Connection successfully to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-11 08:42:25,045 - INFO - Total execution time connection 3430783490.0622406
+2024-05-11 08:42:25,046 - ERROR - Exepction Error occured at connecting to OPC UA Server opc.tcp://localhost:4840: openpyxl does not support  file format, please check you can open it with Excel first. Supported formats are: .xlsx,.xlsm,.xltx,.xltm
+2024-05-11 08:42:25,046 - INFO - Disconnect OPC UA Server opc.tcp://localhost:4840
+2024-05-11 08:44:17,005 - INFO - Connecting to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-11 08:44:17,021 - INFO - Connection successfully to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-11 08:44:17,023 - INFO - Total execution time connection 3430783714.0294113
+2024-05-11 08:44:17,024 - WARNING - Node ID aren't in folder, check your setup.env file. Current directory nxservice/bin/dataset
+2024-05-11 08:44:17,024 - INFO - Exiting services.
+2024-05-11 08:44:17,025 - INFO - Disconnect OPC UA Server opc.tcp://localhost:4840
+2024-05-11 08:45:45,030 - INFO - Connecting to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-11 08:45:45,046 - INFO - Connection successfully to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-11 08:45:45,047 - INFO - Total execution time connection 3430783890.0785866
+2024-05-11 08:45:45,049 - WARNING - Node ID aren't in folder, check your setup.env file. Current directory nxservice/bin/dataset
+2024-05-11 08:45:45,051 - INFO - Exiting services.
+2024-05-11 08:45:45,053 - INFO - Disconnect OPC UA Server opc.tcp://localhost:4840
+2024-05-11 08:45:58,054 - INFO - Connecting to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-11 08:45:58,071 - INFO - Connection successfully to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-11 08:45:58,073 - INFO - Total execution time connection 3430783916.128909
+2024-05-11 08:45:58,112 - INFO - Import node id from excel file successfully, dir nxservice/bin/dataset/data_nodeid.xlsx, total node id 6
+2024-05-11 08:45:58,113 - INFO - Creating subscription for datachange
+2024-05-11 08:45:58,114 - INFO - Create subscription with execution time 100
+2024-05-11 08:45:58,117 - INFO - Total time for create subscribe 3430783916.2304797
+2024-05-11 08:45:58,117 - INFO - Getting node information from server
+2024-05-11 08:45:58,118 - INFO - Starting subscribing each node to server!
+2024-05-11 08:47:05,162 - WARNING - Closing service and deleting subscription to OPC UA Server opc.tcp://localhost:4840
+2024-05-11 08:47:05,164 - INFO - Disconnect OPC UA Server opc.tcp://localhost:4840

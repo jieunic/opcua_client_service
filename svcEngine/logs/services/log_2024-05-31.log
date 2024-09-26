@@ -1,0 +1,15 @@
+2024-05-31 13:28:45,879 - INFO - Connecting to OPC UA Server with url opc.tcp://10.64.70.121:52240
+2024-05-31 13:28:49,885 - ERROR - Exepction Error occured at connecting to OPC UA Server opc.tcp://10.64.70.121:52240: timed out
+2024-05-31 13:28:49,886 - INFO - Disconnect OPC UA Server opc.tcp://10.64.70.121:52240
+2024-05-31 13:28:49,887 - ERROR - Error while disconnecting: 'NoneType' object has no attribute 'socket'
+2024-05-31 13:29:39,156 - INFO - Connecting to OPC UA Server with url opc.tcp://10.64.70.121:52240
+2024-05-31 13:29:41,558 - INFO - Connection successfully to OPC UA Server with url opc.tcp://10.64.70.121:52240
+2024-05-31 13:29:41,559 - INFO - Total execution time connection 3434273960.717411
+2024-05-31 13:29:41,579 - INFO - Import node id from excel file successfully, dir nxservice/bin/dataset/data_nodeid_20240525_134104.xlsx, total node id 6
+2024-05-31 13:29:41,579 - INFO - Creating subscription for datachange
+2024-05-31 13:29:41,580 - INFO - Create subscription with execution time 100
+2024-05-31 13:29:41,587 - INFO - Total time for create subscribe 3434273963.1671143
+2024-05-31 13:29:41,587 - INFO - Getting node information from server
+2024-05-31 13:29:41,587 - INFO - Starting subscribing each node to server!
+2024-05-31 13:32:12,461 - WARNING - Closing service and deleting subscription to OPC UA Server opc.tcp://10.64.70.121:52240
+2024-05-31 13:32:12,462 - INFO - Disconnect OPC UA Server opc.tcp://10.64.70.121:52240

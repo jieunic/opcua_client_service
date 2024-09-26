@@ -1,0 +1,439 @@
+2024-06-18 09:57:27,998 - INFO - Connecting to OPC UA Server with url opc.tcp://10.64.70.121:52240
+2024-06-18 09:57:28,015 - INFO - Connection successfully to OPC UA Server with url opc.tcp://10.64.70.121:52240
+2024-06-18 09:57:28,130 - INFO - Connecting to MS SQL Server database with IP:10.64.70.121, Database name:DB_Shellbody2, UName:admin40, DB Dict:True
+2024-06-18 09:57:28,131 - INFO - Total execution time connection 3437358896.1292505
+2024-06-18 09:57:28,184 - INFO - Import node id from excel file successfully, dir svcEngine/bin/dataset/dataset.xlsx, total node id 293
+2024-06-18 09:57:28,184 - INFO - Creating subscription for datachange
+2024-06-18 09:57:28,185 - INFO - Create subscription with execution time 100
+2024-06-18 09:57:28,190 - INFO - Total time for create subscribe 3437358896.3748364
+2024-06-18 09:57:28,191 - INFO - Getting node information from server
+2024-06-18 09:57:28,236 - INFO - Starting subscribing each node to server!
+2024-06-18 09:57:28,307 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:28,392 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:28,393 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:28,430 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:28,431 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:28,474 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:28,475 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:28,513 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:28,515 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:28,551 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:28,552 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:28,603 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:28,605 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:28,664 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:28,666 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:28,719 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:28,721 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:28,765 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:28,766 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:28,802 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:28,803 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:28,839 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:28,840 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:28,884 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:28,908 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:28,968 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:28,970 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:29,027 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:29,029 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:29,076 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:29,077 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:29,119 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:29,120 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:29,161 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:29,163 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:29,208 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:29,209 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:29,255 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:29,256 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:29,304 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:29,305 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:29,362 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:29,363 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:29,402 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:29,403 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:29,441 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:29,443 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:29,488 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:29,489 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:29,554 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:29,556 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:29,595 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:29,596 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:29,667 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:29,668 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:29,706 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:29,707 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:29,747 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:29,748 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:29,786 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:29,786 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:29,825 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:29,826 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:29,871 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:29,873 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:29,911 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:29,913 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:29,983 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:29,984 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:30,022 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:30,024 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:30,063 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:30,064 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:30,102 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:30,104 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:30,143 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:30,144 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:30,199 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:30,200 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:30,237 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:30,239 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:30,286 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:30,286 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:30,325 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:30,327 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:30,366 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:30,366 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:30,404 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:30,405 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:30,444 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:30,445 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:30,485 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:30,486 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:30,529 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:30,530 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:30,572 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:30,573 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:30,618 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:30,618 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:30,659 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:30,662 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:30,707 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:30,708 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:30,745 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:30,747 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:30,785 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:30,786 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:30,825 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:30,826 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:30,869 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:30,870 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:30,909 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:30,910 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:30,947 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:30,948 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:30,987 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:30,989 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:31,028 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:31,029 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:31,067 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:31,068 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:31,107 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:31,109 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:31,149 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:31,150 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:31,188 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:31,189 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:31,228 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:31,229 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:31,268 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:31,269 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:31,317 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:31,319 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:31,388 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:31,389 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:31,426 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:31,428 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:31,480 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:31,481 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:31,524 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:31,525 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:31,565 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:31,566 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:31,615 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:31,617 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:31,663 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:31,665 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:31,705 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:31,706 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:31,747 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:31,749 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:31,785 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 09:57:31,785 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 09:57:31,799 - INFO - Disconnect OPC UA Server opc.tcp://10.64.70.121:52240
+2024-06-18 09:57:32,062 - ERROR - Error while disconnecting: Event loop is closed
+2024-06-18 10:00:58,332 - INFO - Connecting to OPC UA Server with url opc.tcp://10.64.70.121:52240
+2024-06-18 10:00:58,394 - INFO - Connection successfully to OPC UA Server with url opc.tcp://10.64.70.121:52240
+2024-06-18 10:00:58,488 - INFO - Connecting to MS SQL Server database with IP:10.64.70.121, Database name:DB_Shellbody2, UName:admin40, DB Dict:True
+2024-06-18 10:00:58,488 - INFO - Total execution time connection 3437359316.8228745
+2024-06-18 10:00:58,524 - INFO - Import node id from excel file successfully, dir svcEngine/bin/dataset/dataset.xlsx, total node id 293
+2024-06-18 10:00:58,524 - INFO - Creating subscription for datachange
+2024-06-18 10:00:58,525 - INFO - Create subscription with execution time 100
+2024-06-18 10:00:58,529 - INFO - Total time for create subscribe 3437359317.054804
+2024-06-18 10:00:58,529 - INFO - Getting node information from server
+2024-06-18 10:00:58,561 - INFO - Starting subscribing each node to server!
+2024-06-18 10:00:58,647 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:00:58,713 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:00:58,714 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:00:58,751 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:00:58,752 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:00:58,791 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:00:58,792 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:00:58,833 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:00:58,834 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:00:58,875 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:00:58,877 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:00:58,916 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:00:58,919 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:00:58,959 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:00:58,961 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:00:58,999 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:00:59,000 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:00:59,061 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:00:59,062 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:00:59,101 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:00:59,102 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:00:59,179 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:00:59,212 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:00:59,298 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:00:59,319 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:00:59,360 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:00:59,362 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:00:59,413 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:00:59,415 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:00:59,457 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:00:59,459 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:00:59,501 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:00:59,502 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:00:59,539 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:00:59,540 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:00:59,579 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:00:59,580 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:00:59,622 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:00:59,623 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:00:59,661 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:00:59,662 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:00:59,704 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:00:59,705 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:00:59,746 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:00:59,747 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:00:59,788 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:00:59,789 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:00:59,825 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:00:59,826 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:00:59,911 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:00:59,958 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:01:00,053 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:01:00,054 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:01:00,107 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:01:00,108 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:01:00,150 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:01:00,153 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:01:00,194 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:01:00,195 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:01:00,239 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:01:00,240 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:01:00,284 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:01:00,287 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:01:00,325 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:01:00,327 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:01:00,375 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:01:00,377 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:01:00,449 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:01:00,451 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:01:00,502 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:01:00,502 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:01:00,541 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:01:00,543 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:01:00,585 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:01:00,587 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:01:00,727 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:01:00,729 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:01:00,770 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:01:00,771 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:01:00,811 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:01:00,813 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:01:00,857 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:01:00,858 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:01:00,898 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:01:00,900 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:01:00,941 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:01:00,942 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:01:00,998 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:01:00,999 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:01:01,041 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:01:01,042 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:01:01,084 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:01:01,086 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:01:01,126 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:01:01,128 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:01:01,169 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:01:01,171 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:01:01,210 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:01:01,211 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:01:01,248 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:01:01,249 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:01:01,289 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:01:01,290 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:01:01,311 - INFO - Disconnect OPC UA Server opc.tcp://10.64.70.121:52240
+2024-06-18 10:01:01,472 - ERROR - Error while disconnecting: Event loop is closed
+2024-06-18 10:03:24,924 - INFO - Connecting to OPC UA Server with url opc.tcp://10.64.70.121:52240
+2024-06-18 10:03:24,981 - INFO - Connection successfully to OPC UA Server with url opc.tcp://10.64.70.121:52240
+2024-06-18 10:03:25,047 - INFO - Connecting to MS SQL Server database with IP:10.64.70.121, Database name:DB_Shellbody2, UName:admin40, DB Dict:True
+2024-06-18 10:03:25,048 - INFO - Total execution time connection 3437359609.9745955
+2024-06-18 10:03:25,084 - INFO - Import node id from excel file successfully, dir svcEngine/bin/dataset/dataset.xlsx, total node id 293
+2024-06-18 10:03:25,085 - INFO - Creating subscription for datachange
+2024-06-18 10:03:25,085 - INFO - Create subscription with execution time 100
+2024-06-18 10:03:25,090 - INFO - Total time for create subscribe 3437359610.175277
+2024-06-18 10:03:25,090 - INFO - Getting node information from server
+2024-06-18 10:03:25,125 - INFO - Starting subscribing each node to server!
+2024-06-18 10:03:25,205 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:25,274 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:25,275 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:25,313 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:25,315 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:25,352 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:25,354 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:25,391 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:25,393 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:25,431 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:25,433 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:25,472 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:25,473 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:25,512 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:25,513 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:25,555 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:25,556 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:25,595 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:25,597 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:25,644 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:25,645 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:25,683 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:25,685 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:25,727 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:25,728 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:25,768 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:25,770 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:25,806 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:25,807 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:25,851 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:25,853 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:25,893 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:25,895 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:25,935 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:25,936 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:25,974 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:25,975 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:26,015 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:26,018 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:26,059 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:26,060 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:26,102 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:26,103 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:26,142 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:26,144 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:26,184 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:26,185 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:26,223 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:26,223 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:26,267 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:26,269 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:26,308 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:26,310 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:26,354 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:26,355 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:26,394 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:26,395 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:26,442 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:26,444 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:26,483 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:26,484 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:26,527 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:26,528 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:26,565 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:26,568 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:26,607 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:26,608 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:26,683 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:26,685 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:26,723 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:26,724 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:26,773 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:26,775 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:26,817 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:26,820 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:26,861 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:26,862 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:26,901 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:26,903 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:26,941 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:26,943 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:26,984 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:26,985 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:27,024 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:27,025 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:27,077 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:27,078 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:27,117 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:27,118 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:27,157 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:27,159 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:27,198 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:27,200 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:27,239 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:27,239 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:27,284 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:27,285 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:27,327 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:27,327 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:27,367 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:27,368 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:27,409 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:27,410 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:27,477 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:27,478 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:27,522 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:27,523 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:27,583 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:27,585 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:27,627 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:27,628 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:27,668 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:27,669 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:27,707 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:27,709 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:27,747 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:27,748 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:27,790 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:27,791 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:27,833 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:27,835 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:27,873 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:27,875 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:27,919 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:27,920 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:27,955 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:27,957 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:27,996 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:27,998 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:28,038 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:28,040 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:28,080 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:28,082 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:28,154 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:28,155 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:28,196 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:28,197 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:28,235 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:28,236 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:28,276 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:28,277 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:28,335 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:28,337 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:28,375 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:28,376 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:28,418 - INFO - Using OPC UA Client method to connect DXP Server
+2024-06-18 10:03:28,420 - INFO - Opening excel file in svcEngine/bin/dataset/dataset.xlsx
+2024-06-18 10:03:28,438 - INFO - Disconnect OPC UA Server opc.tcp://10.64.70.121:52240
+2024-06-18 10:03:28,548 - ERROR - Error while disconnecting: Event loop is closed

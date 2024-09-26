@@ -1,0 +1,204 @@
+2024-05-08 10:16:28,107 - INFO - Connecting to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 10:16:28,127 - INFO - Connection successfully to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 10:16:28,129 - INFO - Total execution time connection 3430276376.2359715
+2024-05-08 10:27:46,725 - INFO - Connecting to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 10:27:46,741 - INFO - Connection successfully to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 10:27:46,742 - INFO - Total execution time connection 3430277733.4676247
+2024-05-08 10:27:46,756 - INFO - Import node id from excel file successfully, dir nxservice/bin/dataset, total node id 6
+2024-05-08 10:27:46,761 - INFO - Creating subscription for datachange
+2024-05-08 10:39:39,934 - INFO - Connecting to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 10:39:39,958 - INFO - Connection successfully to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 10:39:39,958 - INFO - Total execution time connection 3430279159.893116
+2024-05-08 10:39:39,962 - ERROR - Exepction Error occured: [WinError 3] The system cannot find the path specified: '/nxservice/bin/dataset'
+2024-05-08 10:40:17,641 - INFO - Connecting to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 10:40:17,662 - INFO - Connection successfully to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 10:40:17,665 - INFO - Total execution time connection 3430279235.305397
+2024-05-08 10:40:17,677 - INFO - Import node id from excel file successfully, dir nxservice/bin/dataset, total node id 6
+2024-05-08 10:40:17,679 - INFO - Creating subscription for datachange
+2024-05-08 11:11:41,588 - INFO - Connecting to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 11:11:41,607 - INFO - Connection successfully to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 11:11:41,609 - INFO - Total execution time connection 3430283003.1983404
+2024-05-08 11:11:41,624 - INFO - Import node id from excel file successfully, dir nxservice/bin/dataset, total node id 6
+2024-05-08 11:11:41,626 - INFO - Creating subscription for datachange
+2024-05-08 11:11:41,626 - ERROR - Exepction Error occured: required argument is not a float
+2024-05-08 11:13:23,912 - INFO - Connecting to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 11:13:23,942 - INFO - Connection successfully to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 11:13:23,943 - INFO - Total execution time connection 3430283207.857053
+2024-05-08 11:13:23,982 - INFO - Import node id from excel file successfully, dir nxservice/bin/dataset, total node id 6
+2024-05-08 11:13:23,982 - INFO - Creating subscription for datachange
+2024-05-08 11:13:23,985 - ERROR - Exepction Error occured: required argument is not a float
+2024-05-08 11:29:48,882 - INFO - Connecting to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 11:29:48,903 - INFO - Connection successfully to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 11:29:48,905 - INFO - Total execution time connection 3430285177.786164
+2024-05-08 11:29:48,924 - INFO - Import node id from excel file successfully, dir nxservice/bin/dataset, total node id 6
+2024-05-08 11:29:48,925 - INFO - Creating subscription for datachange
+2024-05-08 12:57:46,255 - INFO - Connecting to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 12:57:50,279 - ERROR - Exepction Error occured: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-05-08 13:01:01,679 - INFO - Connecting to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 13:01:05,695 - ERROR - Exepction Error occured: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-05-08 13:01:05,696 - INFO - Disconnect OPC UA Server opc.tcp://localhost:4840
+2024-05-08 13:01:05,697 - ERROR - Error while disconnecting: 'NoneType' object has no attribute 'socket'
+2024-05-08 13:03:06,681 - INFO - Connecting to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 13:03:06,696 - INFO - Connection successfully to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 13:03:06,697 - INFO - Total execution time connection 3430296373.379019
+2024-05-08 13:03:06,750 - INFO - Import node id from excel file successfully, dir nxservice/bin/dataset, total node id 6
+2024-05-08 13:03:06,756 - INFO - Creating subscription for datachange
+2024-05-08 13:03:06,761 - INFO - Disconnect OPC UA Server opc.tcp://localhost:4840
+2024-05-08 13:03:55,132 - INFO - Connecting to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 13:03:55,144 - INFO - Connection successfully to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 13:03:55,146 - INFO - Total execution time connection 3430296470.278517
+2024-05-08 13:03:55,164 - INFO - Import node id from excel file successfully, dir nxservice/bin/dataset, total node id 6
+2024-05-08 13:03:55,166 - INFO - Creating subscription for datachange
+2024-05-08 13:03:55,169 - INFO - Disconnect OPC UA Server opc.tcp://localhost:4840
+2024-05-08 13:05:33,224 - INFO - Connecting to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 13:05:33,237 - INFO - Connection successfully to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 13:05:33,238 - INFO - Total execution time connection 3430296666.4622355
+2024-05-08 13:05:33,251 - INFO - Import node id from excel file successfully, dir nxservice/bin/dataset, total node id 6
+2024-05-08 13:05:33,251 - INFO - Creating subscription for datachange
+2024-05-08 13:05:33,254 - INFO - Disconnect OPC UA Server opc.tcp://localhost:4840
+2024-05-08 13:12:21,927 - INFO - Connecting to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 13:12:21,942 - INFO - Connection successfully to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 13:12:21,943 - INFO - Total execution time connection 3430297483.8718386
+2024-05-08 13:12:21,953 - INFO - Import node id from excel file successfully, dir nxservice/bin/dataset, total node id 6
+2024-05-08 13:12:21,954 - INFO - Creating subscription for datachange
+2024-05-08 13:12:21,956 - INFO - Disconnect OPC UA Server opc.tcp://localhost:4840
+2024-05-08 13:13:05,686 - INFO - Connecting to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 13:13:05,702 - INFO - Connection successfully to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 13:13:05,702 - INFO - Total execution time connection 3430297571.3884077
+2024-05-08 13:13:05,713 - INFO - Import node id from excel file successfully, dir nxservice/bin/dataset, total node id 6
+2024-05-08 13:13:05,713 - INFO - Creating subscription for datachange
+2024-05-08 13:13:05,716 - INFO - Disconnect OPC UA Server opc.tcp://localhost:4840
+2024-05-08 13:15:00,980 - INFO - Connecting to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 13:15:00,995 - INFO - Connection successfully to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 13:15:00,996 - INFO - Total execution time connection 3430297801.978605
+2024-05-08 13:15:01,012 - INFO - Import node id from excel file successfully, dir nxservice/bin/dataset, total node id 6
+2024-05-08 13:15:01,012 - INFO - Creating subscription for datachange
+2024-05-08 13:15:01,015 - INFO - Disconnect OPC UA Server opc.tcp://localhost:4840
+2024-05-08 13:17:24,646 - INFO - Connecting to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 13:17:24,660 - INFO - Connection successfully to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 13:17:24,660 - INFO - Total execution time connection 3430298089.3067856
+2024-05-08 13:17:24,671 - INFO - Import node id from excel file successfully, dir nxservice/bin/dataset, total node id 6
+2024-05-08 13:17:24,671 - INFO - Creating subscription for datachange
+2024-05-08 13:17:41,172 - INFO - Disconnect OPC UA Server opc.tcp://localhost:4840
+2024-05-08 13:23:06,887 - INFO - Connecting to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 13:23:06,902 - INFO - Connection successfully to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 13:23:06,903 - INFO - Total execution time connection 3430298773.790907
+2024-05-08 13:23:06,916 - INFO - Import node id from excel file successfully, dir nxservice/bin/dataset, total node id 6
+2024-05-08 13:23:06,917 - INFO - Creating subscription for datachange
+2024-05-08 13:24:54,872 - INFO - Disconnect OPC UA Server opc.tcp://localhost:4840
+2024-05-08 13:26:43,956 - INFO - Connecting to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 13:26:43,972 - INFO - Connection successfully to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 13:26:43,973 - INFO - Total execution time connection 3430299207.9300346
+2024-05-08 13:26:43,990 - INFO - Import node id from excel file successfully, dir nxservice/bin/dataset, total node id 6
+2024-05-08 13:26:43,991 - INFO - Creating subscription for datachange
+2024-05-08 13:26:46,958 - ERROR - Exepction Error occured: Subscription.unsubscribe() missing 1 required positional argument: 'handle'
+2024-05-08 13:26:46,960 - INFO - Disconnect OPC UA Server opc.tcp://localhost:4840
+2024-05-08 13:27:28,173 - INFO - Connecting to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 13:27:28,191 - INFO - Connection successfully to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 13:27:28,192 - INFO - Total execution time connection 3430299296.3658934
+2024-05-08 13:27:28,211 - INFO - Import node id from excel file successfully, dir nxservice/bin/dataset, total node id 6
+2024-05-08 13:27:28,212 - INFO - Creating subscription for datachange
+2024-05-08 13:27:30,425 - ERROR - Exepction Error occured: "There was nothing to do because the client passed a list of operations with no elements."(BadNothingToDo)
+2024-05-08 13:27:30,426 - INFO - Disconnect OPC UA Server opc.tcp://localhost:4840
+2024-05-08 13:38:44,477 - INFO - Connecting to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 13:38:44,495 - INFO - Connection successfully to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 13:38:44,495 - INFO - Total execution time connection 3430300648.972923
+2024-05-08 13:38:44,507 - INFO - Import node id from excel file successfully, dir nxservice/bin/dataset, total node id 6
+2024-05-08 13:38:44,508 - INFO - Creating subscription for datachange
+2024-05-08 13:39:46,911 - WARNING - Service interrupted!
+2024-05-08 13:39:46,975 - INFO - Disconnect OPC UA Server opc.tcp://localhost:4840
+2024-05-08 13:41:39,775 - INFO - Connecting to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 13:41:39,790 - INFO - Connection successfully to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 13:41:39,792 - INFO - Total execution time connection 3430300999.567212
+2024-05-08 13:41:39,807 - INFO - Import node id from excel file successfully, dir nxservice/bin/dataset, total node id 6
+2024-05-08 13:41:39,808 - INFO - Creating subscription for datachange
+2024-05-08 13:41:44,347 - ERROR - Exepction Error occured: "There was nothing to do because the client passed a list of operations with no elements."(BadNothingToDo)
+2024-05-08 13:41:44,347 - INFO - Disconnect OPC UA Server opc.tcp://localhost:4840
+2024-05-08 13:42:19,161 - INFO - Connecting to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 13:42:19,174 - INFO - Connection successfully to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 13:42:19,175 - INFO - Total execution time connection 3430301078.337105
+2024-05-08 13:42:19,184 - INFO - Import node id from excel file successfully, dir nxservice/bin/dataset, total node id 6
+2024-05-08 13:42:19,185 - INFO - Creating subscription for datachange
+2024-05-08 13:42:20,055 - ERROR - Exepction Error occured: "There was nothing to do because the client passed a list of operations with no elements."(BadNothingToDo)
+2024-05-08 13:42:20,055 - INFO - Disconnect OPC UA Server opc.tcp://localhost:4840
+2024-05-08 13:42:51,996 - INFO - Connecting to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 13:42:52,016 - INFO - Connection successfully to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 13:42:52,017 - INFO - Total execution time connection 3430301144.0133786
+2024-05-08 13:42:52,033 - INFO - Import node id from excel file successfully, dir nxservice/bin/dataset, total node id 6
+2024-05-08 13:42:52,034 - INFO - Creating subscription for datachange
+2024-05-08 13:42:53,489 - INFO - Disconnect OPC UA Server opc.tcp://localhost:4840
+2024-05-08 13:43:06,980 - INFO - Connecting to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 13:43:07,000 - INFO - Connection successfully to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 13:43:07,001 - INFO - Total execution time connection 3430301173.9834313
+2024-05-08 13:43:07,016 - INFO - Import node id from excel file successfully, dir nxservice/bin/dataset, total node id 6
+2024-05-08 13:43:07,017 - INFO - Creating subscription for datachange
+2024-05-08 13:43:22,797 - INFO - Disconnect OPC UA Server opc.tcp://localhost:4840
+2024-05-08 13:53:30,220 - INFO - Connecting to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 13:53:30,234 - INFO - Connection successfully to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 13:53:30,234 - INFO - Total execution time connection 3430302420.455014
+2024-05-08 13:53:30,247 - INFO - Import node id from excel file successfully, dir nxservice/bin/dataset, total node id 6
+2024-05-08 13:53:30,249 - INFO - Creating subscription for datachange
+2024-05-08 13:53:30,252 - INFO - Disconnect OPC UA Server opc.tcp://localhost:4840
+2024-05-08 13:57:30,330 - INFO - Connecting to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 13:57:30,346 - INFO - Connection successfully to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 13:57:30,347 - INFO - Total execution time connection 3430302900.6788692
+2024-05-08 13:57:30,362 - INFO - Import node id from excel file successfully, dir nxservice/bin/dataset, total node id 6
+2024-05-08 13:57:30,362 - INFO - Creating subscription for datachange
+2024-05-08 13:57:42,071 - INFO - Disconnect OPC UA Server opc.tcp://localhost:4840
+2024-05-08 14:17:50,638 - INFO - Connecting to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 14:17:50,666 - INFO - Connection successfully to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 14:17:50,666 - INFO - Total execution time connection 3430305341.3074274
+2024-05-08 14:17:50,683 - INFO - Import node id from excel file successfully, dir nxservice/bin/dataset, total node id 6
+2024-05-08 14:17:50,685 - INFO - Creating subscription for datachange
+2024-05-08 14:17:50,686 - INFO - Create subscription with execution time 100
+2024-05-08 14:17:50,688 - INFO - Total time for create subscribe 3430305341.371257
+2024-05-08 14:17:50,689 - INFO - Getting node information from server
+2024-05-08 14:17:50,690 - INFO - Starting subscribing each node to server!
+2024-05-08 14:18:05,635 - WARNING - Service interrupted!
+2024-05-08 14:18:05,636 - INFO - Disconnect OPC UA Server opc.tcp://localhost:4840
+2024-05-08 14:18:05,662 - ERROR - Error while disconnecting: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-05-08 14:25:15,289 - INFO - Connecting to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 14:25:19,313 - ERROR - Exepction Error occured at connecting to OPC UA Server opc.tcp://localhost:4840: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-05-08 14:25:19,314 - INFO - Disconnect OPC UA Server opc.tcp://localhost:4840
+2024-05-08 14:25:19,315 - ERROR - Error while disconnecting: 'NoneType' object has no attribute 'socket'
+2024-05-08 14:26:33,121 - INFO - Connecting to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 14:26:33,138 - INFO - Connection successfully to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 14:26:33,138 - INFO - Total execution time connection 3430306386.2597675
+2024-05-08 14:26:33,147 - INFO - Import node id from excel file successfully, dir nxservice/bin/dataset, total node id 6
+2024-05-08 14:26:33,148 - INFO - Creating subscription for datachange
+2024-05-08 14:26:33,149 - INFO - Create subscription with execution time 100
+2024-05-08 14:26:33,151 - INFO - Total time for create subscribe 3430306386.2980785
+2024-05-08 14:26:33,151 - INFO - Getting node information from server
+2024-05-08 14:26:33,151 - INFO - Starting subscribing each node to server!
+2024-05-08 14:26:47,051 - WARNING - Closing service and deleting subscription to OPC UA Server opc.tcp://localhost:4840
+2024-05-08 14:26:47,053 - INFO - Disconnect OPC UA Server opc.tcp://localhost:4840
+2024-05-08 14:28:28,673 - INFO - Connecting to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 14:28:28,689 - INFO - Connection successfully to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 14:28:28,690 - INFO - Total execution time connection 3430306617.363181
+2024-05-08 14:28:28,704 - INFO - Import node id from excel file successfully, dir nxservice/bin/dataset, total node id 6
+2024-05-08 14:28:28,705 - INFO - Creating subscription for datachange
+2024-05-08 14:28:28,705 - INFO - Create subscription with execution time 100
+2024-05-08 14:28:28,709 - INFO - Total time for create subscribe 3430306617.414352
+2024-05-08 14:28:28,710 - INFO - Getting node information from server
+2024-05-08 14:28:28,710 - INFO - Starting subscribing each node to server!
+2024-05-08 14:29:59,093 - WARNING - Closing service and deleting subscription to OPC UA Server opc.tcp://localhost:4840
+2024-05-08 14:29:59,096 - INFO - Disconnect OPC UA Server opc.tcp://localhost:4840
+2024-05-08 14:31:27,835 - INFO - Connecting to OPC UA Server with url opc.tcp://192.168.97.8:4840
+2024-05-08 14:31:31,842 - ERROR - Exepction Error occured at connecting to OPC UA Server opc.tcp://192.168.97.8:4840: timed out
+2024-05-08 14:31:31,843 - INFO - Disconnect OPC UA Server opc.tcp://192.168.97.8:4840
+2024-05-08 14:31:31,844 - ERROR - Error while disconnecting: 'NoneType' object has no attribute 'socket'
+2024-05-08 14:54:16,658 - INFO - Connecting to OPC UA Server with url opc.tcp://192.168.97.8:4840
+2024-05-08 14:54:20,663 - ERROR - Exepction Error occured at connecting to OPC UA Server opc.tcp://192.168.97.8:4840: timed out
+2024-05-08 14:54:20,663 - INFO - Disconnect OPC UA Server opc.tcp://192.168.97.8:4840
+2024-05-08 14:54:20,664 - ERROR - Error while disconnecting: 'NoneType' object has no attribute 'socket'
+2024-05-08 14:54:33,350 - INFO - Connecting to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 14:54:33,365 - INFO - Connection successfully to OPC UA Server with url opc.tcp://localhost:4840
+2024-05-08 14:54:33,366 - INFO - Total execution time connection 3430309746.7160406
+2024-05-08 14:54:33,378 - INFO - Import node id from excel file successfully, dir nxservice/bin/dataset, total node id 6
+2024-05-08 14:54:33,379 - INFO - Creating subscription for datachange
+2024-05-08 14:54:33,380 - INFO - Create subscription with execution time 100
+2024-05-08 14:54:33,382 - INFO - Total time for create subscribe 3430309746.761229
+2024-05-08 14:54:33,382 - INFO - Getting node information from server
+2024-05-08 14:54:33,383 - INFO - Starting subscribing each node to server!
+2024-05-08 14:54:42,879 - WARNING - Closing service and deleting subscription to OPC UA Server opc.tcp://localhost:4840
+2024-05-08 14:54:42,891 - INFO - Disconnect OPC UA Server opc.tcp://localhost:4840

@@ -1,0 +1,13 @@
+2024-07-15 17:42:20,947 - INFO - Connecting to OPC UA Server with url opc.tcp://10.64.70.121:52240
+2024-07-15 17:42:22,978 - ERROR - Exception Error occured at connecting to OPC UA Server opc.tcp://10.64.70.121:52240: [WinError 1225] The remote computer refused the network connection
+2024-07-15 17:42:22,979 - INFO - Disconnect OPC UA Server opc.tcp://10.64.70.121:52240
+2024-07-15 18:30:10,277 - INFO - Connecting to OPC UA Server with url opc.tcp://10.64.70.121:52240
+2024-07-15 18:30:10,297 - INFO - Connection successfully to OPC UA Server with url opc.tcp://10.64.70.121:52240
+2024-07-15 18:30:10,299 - INFO - Total execution time connection 3442086020.576002
+2024-07-15 18:30:10,368 - INFO - Import node id from excel file successfully, dir svcEngine/bin/dataset/dataset.xlsx, total node id 293
+2024-07-15 18:30:10,369 - INFO - Creating subscription for datachange
+2024-07-15 18:30:10,370 - INFO - Create subscription with execution time 100
+2024-07-15 18:30:10,374 - INFO - Total time for create subscribe 3442086020.7411957
+2024-07-15 18:30:10,374 - INFO - Getting node information from server
+2024-07-15 18:30:10,751 - INFO - Starting subscribing each node to server!
+2024-07-15 18:43:53,686 - INFO - Disconnect OPC UA Server opc.tcp://10.64.70.121:52240

@@ -1,0 +1,34 @@
+2024-06-05 17:43:46,671 - INFO - Connecting to OPC UA Server with url opc.tcp://10.64.70.121:52240
+2024-06-05 17:43:46,711 - INFO - Connection successfully to OPC UA Server with url opc.tcp://10.64.70.121:52240
+2024-06-05 17:43:46,711 - INFO - Total execution time connection 3435168453.3840294
+2024-06-05 17:43:46,726 - INFO - Import node id from excel file successfully, dir nxservice/bin/dataset/data_nodeid_20240525_134104.xlsx, total node id 3
+2024-06-05 17:43:46,727 - INFO - Creating subscription for datachange
+2024-06-05 17:43:46,727 - INFO - Create subscription with execution time 100
+2024-06-05 17:43:46,743 - INFO - Total time for create subscribe 3435168453.470573
+2024-06-05 17:43:46,744 - INFO - Getting node information from server
+2024-06-05 17:43:46,745 - INFO - Starting subscribing each node to server!
+2024-06-05 17:45:13,367 - WARNING - Closing service and deleting subscription to OPC UA Server opc.tcp://10.64.70.121:52240
+2024-06-05 17:45:13,367 - INFO - Disconnect OPC UA Server opc.tcp://10.64.70.121:52240
+2024-06-05 17:47:01,136 - INFO - Connecting to OPC UA Server with url opc.tcp://10.64.70.121:52240
+2024-06-05 17:47:01,188 - INFO - Connection successfully to OPC UA Server with url opc.tcp://10.64.70.121:52240
+2024-06-05 17:47:01,190 - INFO - Total execution time connection 3435168842.326414
+2024-06-05 17:47:01,340 - INFO - Import node id from excel file successfully, dir nxservice/bin/dataset/data_nodeid_20240525_134104.xlsx, total node id 1232
+2024-06-05 17:47:01,340 - INFO - Creating subscription for datachange
+2024-06-05 17:47:01,341 - INFO - Create subscription with execution time 100
+2024-06-05 17:47:01,347 - INFO - Total time for create subscribe 3435168842.6884446
+2024-06-05 17:47:01,347 - INFO - Getting node information from server
+2024-06-05 17:47:01,353 - INFO - Starting subscribing each node to server!
+2024-06-05 17:48:25,819 - WARNING - Closing service and deleting subscription to OPC UA Server opc.tcp://10.64.70.121:52240
+2024-06-05 17:48:25,820 - INFO - Disconnect OPC UA Server opc.tcp://10.64.70.121:52240
+2024-06-05 17:48:40,376 - INFO - Connecting to OPC UA Server with url opc.tcp://10.64.70.121:52240
+2024-06-05 17:48:40,398 - INFO - Connection successfully to OPC UA Server with url opc.tcp://10.64.70.121:52240
+2024-06-05 17:48:40,399 - INFO - Total execution time connection 3435169040.775451
+2024-06-05 17:48:40,563 - INFO - Import node id from excel file successfully, dir nxservice/bin/dataset/data_nodeid_20240525_134104.xlsx, total node id 1232
+2024-06-05 17:48:40,564 - INFO - Creating subscription for datachange
+2024-06-05 17:48:40,565 - INFO - Create subscription with execution time 100
+2024-06-05 17:48:40,570 - INFO - Total time for create subscribe 3435169041.13468
+2024-06-05 17:48:40,570 - INFO - Getting node information from server
+2024-06-05 17:48:40,576 - INFO - Starting subscribing each node to server!
+2024-06-05 17:48:44,646 - ERROR - Exepction Error occured at subscribing: 
+2024-06-05 17:48:44,647 - INFO - Disconnect OPC UA Server opc.tcp://10.64.70.121:52240
+2024-06-05 17:48:48,650 - ERROR - Error while disconnecting: 
