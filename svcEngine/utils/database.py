@@ -99,46 +99,46 @@ class DB:
                     #         raise ValueError("Kode node tidak ditemukan.")
                 elif arg == "opcuadxpserver":
                     sl.info("Using OPC UA Client method to connect DXP Server")
-                    # for data in _dict:
-                    #     print(data['NODE_ID'])
-                    #     print(node_id)
-                    # if data['NODE_ID'] == node_id:
-                    #     part_cd = data['PART_CD']
-                    #     ce_cd = data['CE_CD']
-                    #     asset_id = data['ASSET_ID']
-                    #     tag = data['TAG_CD']
-                    #     if type(value_node) == list:
-                    #         json_list = get_json_list(json_file, node_id)
-                    #         for i, (tag_cd, val) in enumerate(zip(json_list, value_node)):
-                    #             buffer_update = {
-                    #                 "asset": asset_id,
-                    #                 "ce": ce_cd,
-                    #                 "device": part_cd,
-                    #                 "tag": tag_cd,
-                    #                 "value": val,
-                    #                 "ts": timestamp
-                    #             }
-                    #             # execute update query
-                    #             cursor = self.conn.cursor()
-                    #             query = f"UPDATE [{database}].[dbo].[{table}] SET VAL = '{buffer_update['value']}', TS = '{buffer_update['ts']}' WHERE ASSET_ID = '{buffer_update['asset']}' AND CE_CD = '{buffer_update['ce']}' AND PART_CD = '{buffer_update['device']}' AND TAG_CD = '{buffer_update['tag']}'"
-                    #             cursor.execute(query)
-                    #             self.conn.commit()
-                    #     else:
-                    #         buffer_update = {
-                    #             "asset": asset_id,
-                    #             "ce": ce_cd,
-                    #             "device": part_cd,
-                    #             "tag": tag,
-                    #             "value": value_node,
-                    #             "ts": timestamp
-                    #             }
-                    #         # execute update query
-                    #         cursor = self.conn.cursor()
-                    #         query = f"UPDATE [{database}].[dbo].[{table}] SET VAL = '{buffer_update['value']}', TS = '{buffer_update['ts']}' WHERE ASSET_ID = '{buffer_update['asset']}' AND CE_CD = '{buffer_update['ce']}' AND PART_CD = '{buffer_update['device']}' AND TAG_CD = '{buffer_update['tag']}'"
-                    #         cursor.execute(query)
-                    #         self.conn.commit()
-                    #     break
-                    # else:
-                    #     raise ValueError("Kode node tidak ditemukan.")
+                    for data in _dict:
+                        print(data['NODE_ID'])
+                        print(node_id)
+                    if data['NODE_ID'] == node_id:
+                        part_cd = data['PART_CD']
+                        ce_cd = data['CE_CD']
+                        asset_id = data['ASSET_ID']
+                        tag = data['TAG_CD']
+                        if type(value_node) == list:
+                            json_list = get_json_list(json_file, node_id)
+                            for i, (tag_cd, val) in enumerate(zip(json_list, value_node)):
+                                buffer_update = {
+                                    "asset": asset_id,
+                                    "ce": ce_cd,
+                                    "device": part_cd,
+                                    "tag": tag_cd,
+                                    "value": val,
+                                    "ts": timestamp
+                                }
+                                # execute update query
+                                cursor = self.conn.cursor()
+                                query = f"UPDATE [{database}].[dbo].[{table}] SET VAL = '{buffer_update['value']}', TS = '{buffer_update['ts']}' WHERE ASSET_ID = '{buffer_update['asset']}' AND CE_CD = '{buffer_update['ce']}' AND PART_CD = '{buffer_update['device']}' AND TAG_CD = '{buffer_update['tag']}'"
+                                cursor.execute(query)
+                                self.conn.commit()
+                        else:
+                            buffer_update = {
+                                "asset": asset_id,
+                                "ce": ce_cd,
+                                "device": part_cd,
+                                "tag": tag,
+                                "value": value_node,
+                                "ts": timestamp
+                                }
+                            # execute update query
+                            cursor = self.conn.cursor()
+                            query = f"UPDATE [{database}].[dbo].[{table}] SET VAL = '{buffer_update['value']}', TS = '{buffer_update['ts']}' WHERE ASSET_ID = '{buffer_update['asset']}' AND CE_CD = '{buffer_update['ce']}' AND PART_CD = '{buffer_update['device']}' AND TAG_CD = '{buffer_update['tag']}'"
+                            cursor.execute(query)
+                            self.conn.commit()
+                        break
+                    else:
+                        raise ValueError("Kode node tidak ditemukan.")
         except Exception as e:
             print(f"Error occurred during update: {e}")

@@ -1,0 +1,10 @@
+2024-10-11 11:28:23,241 - INFO - Connecting to OPC UA Server with url opc.tcp://10.65.157.184:52250
+2024-10-11 11:28:23,986 - INFO - Connection successfully to OPC UA Server with url opc.tcp://10.65.157.184:52250
+2024-10-11 11:28:23,987 - INFO - Total execution time connection 3457241807.2282276
+2024-10-11 11:28:23,997 - INFO - Import node id from excel file successfully, dir svcEngine/bin/dataset/dataset.xlsx, total node id 1
+2024-10-11 11:28:23,998 - INFO - Creating subscription for datachange
+2024-10-11 11:28:23,998 - INFO - Create subscription with execution time 500
+2024-10-11 11:28:24,066 - INFO - Total time for create subscribe 3457241808.0631757
+2024-10-11 11:28:24,067 - INFO - Getting node information from server
+2024-10-11 11:28:24,176 - INFO - Starting subscribing each node to server!
+2024-10-11 11:34:17,575 - INFO - Disconnect OPC UA Server opc.tcp://10.65.157.184:52250
